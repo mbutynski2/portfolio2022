@@ -69,7 +69,7 @@
                 }
             }
         },
-        "portfolio-col-1-style-1.html": {
+        "index.html": {
             "name": "projects",
             "sub": {
                 "case-study-analytics.html": {
@@ -168,7 +168,7 @@
                 }
             }
         },
-        "about-us.html": {
+        "blog-col-1.html": {
             "name": "articles",
             "sub": {
                 "about-us.html": {
@@ -218,7 +218,7 @@
                 }
             }
         },
-        "contact-1.html": {
+        "about-me.html": {
             "name": "about",
             "sub": {
                 "contact-1.html": {
