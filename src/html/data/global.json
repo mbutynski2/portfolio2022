@@ -72,8 +72,8 @@
         "portfolio-col-1-style-1.html": {
             "name": "projects",
             "sub": {
-                "portfolio-col-1-style-1.html": {
-                    "name": "1 column",
+                "case-study-analytics.html": {
+                    "name": "Analytics Plus",
                     "sub": {
                         "portfolio-col-1-style-1.html": {
                             "name": "Style 1"
@@ -84,7 +84,7 @@
                     }
                 },
                 "portfolio-col-2-style-1.html": {
-                    "name": "2 column",
+                    "name": "LifeSphere Hub",
                     "sub": {
                         "portfolio-col-2-style-1.html": {
                             "name": "Style 1"
@@ -107,7 +107,7 @@
                     }
                 },
                 "portfolio-col-3-style-1.html": {
-                    "name": "3 column",
+                    "name": "Flight Pro",
                     "sub": {
                         "portfolio-col-3-style-1.html": {
                             "name": "Style 1"
@@ -127,7 +127,7 @@
                     }
                 },
                 "portfolio-col-4-style-1.html": {
-                    "name": "4 column",
+                    "name": "Certainly",
                     "sub": {
                         "portfolio-col-4-style-1.html": {
                             "name": "Style 1"
@@ -144,7 +144,7 @@
                     }
                 },
                 "portfolio-single-style-1.html": {
-                    "name": "Single Works",
+                    "name": "Journey to UX",
                     "sub": {
                         "portfolio-single-style-1.html": {
                             "name": "Style 1"
@@ -169,7 +169,7 @@
             }
         },
         "about-us.html": {
-            "name": "pages",
+            "name": "articles",
             "sub": {
                 "about-us.html": {
                     "name": "About Us",
@@ -219,7 +219,7 @@
             }
         },
         "contact-1.html": {
-            "name": "contact",
+            "name": "about",
             "sub": {
                 "contact-1.html": {
                     "name": "Contact 1"
