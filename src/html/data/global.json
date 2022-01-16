@@ -297,8 +297,8 @@
         },
         "funny_dog": {
             "href": "portfolio-single-style-4.html",
-            "title": "Funny Dog",
-            "category": ["photography", "#"],
+            "title": "Customer Advisory Board",
+            "category": ["project", "#"],
             "text": "Second be seed gathering our you're one open have a morning greater their.",
             "image": {
                 "lg": "assets/images/portfolio/funny-dog-1340-860.jpg",
@@ -328,10 +328,10 @@
         },
         "mobile_app": {
             "href": "portfolio-single-style-6.html",
-            "title": "Mobile App",
-            "category": ["design", "#"],
+            "title": "Documentation Hub",
+            "category": ["case study", "#"],
             "image": {
-                "md": "assets/images/portfolio/mobile-app-1200-865.jpg",
+                "md": "assets/images/case-study/ag-help/ag-help-1200-865.jpg",
                 "sm": "assets/images/portfolio/mobile-app-740-540.jpg"
             }
         },
@@ -349,8 +349,8 @@
         },
         "identity_design": {
             "href": "portfolio-single-style-2.html",
-            "title": "Identity Design",
-            "category": ["marketing", "#"],
+            "title": "My Process",
+            "category": ["article", "#"],
             "text": "Male let likeness day. Be from called signs light form let multiply air darkness.",
             "image": {
                 "lg": "assets/images/portfolio/identity-design-1340-860.jpg",
@@ -364,8 +364,8 @@
         },
         "package_design": {
             "href": "portfolio-single-style-3.html",
-            "title": "Package Design",
-            "category": ["branding", "#"],
+            "title": "It Starts with a Sketch",
+            "category": ["article", "#"],
             "image": {
                 "md": "assets/images/portfolio/package-design-1200-856.jpg",
                 "md_vertical": "assets/images/portfolio/package-design-1200-1330.jpg",
