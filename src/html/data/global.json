@@ -27,6 +27,11 @@
                     "name": "main home",
                     "image": "assets/images/demos/main-home.jpg"
                 },
+                "home2.html": {
+                    "name": "home2",
+                    "image": "assets/images/demos/home2.jpg"
+                },
+
                 "simple-portfolio.html": {
                     "name": "simple portofolio",
                     "image": "assets/images/demos/simple-portfolio.jpg"
