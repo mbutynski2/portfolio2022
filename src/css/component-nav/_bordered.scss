@@ -9,7 +9,9 @@
 
 .nav-bordered {
     .nav-link {
-        border-bottom: 1px solid currentColor;
+        // border-bottom: 1px solid currentColor;
+        color: mediumvioletred;
+        font-weight: 600;
     }
 
     .nav-item + .nav-item {

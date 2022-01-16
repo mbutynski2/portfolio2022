@@ -42,15 +42,18 @@
 
     .nav-link-name {
         position: relative;
+        
 
         // line
         &::before {
             content: "";
             position: absolute;
-            top: 50%;
-            right: -2px;
-            left: -2px;
-            border-bottom: 1px solid currentColor;
+            //top: 50%;
+            //right: -2px;
+            //left: -2px;
+            // border-bottom: 1px solid currentColor;
+            color: mediumvioletred;
+            font-weight: 600;
             will-change: transform;
             transition: transform .25s ease-in-out;
             transform: scaleX(0);
