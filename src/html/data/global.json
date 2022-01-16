@@ -383,7 +383,7 @@
             }
         },
         "app_design": {
-            "href": "portfolio-single-style-5.html",
+            "href": "case-study-analytics.html",
             "title": "Analytics Plus",
             "category": ["case study", "#"],
             "image": {
@@ -755,26 +755,33 @@
         }
     },
     "review": {
-        "brian_newton": {
-            "name": "Brian Newton",
-            "subtitle": "Unvab Inc.",
+        "john_tidwell": {
+            "name": "John Tidwell, MBA",
+            "subtitle": "CTO Child Support Services",
             "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
-            "avatar": "assets/images/avatar/avatar-brian-newton.jpg",
-            "text": "“ There from stars gathering gathered, upon tree brought life fruitful shall that together without there form You make, morning he from unto. ”"
+            "avatar": "assets/images/about/john.jpg",
+            "text": "“ Mandi has no ceiling that I can detect, she seems capable of continuing to learn and grow and add more and more value to the organizations she works with. I can say without reservation that Mandi is at the top of her field, and any organization would be fortunate to have her on their team. ”"
         },
-        "june_oliver": {
-            "name": "June Oliver",
-            "subtitle": "Unvab Inc.",
+        "nathan_fleischmann": {
+            "name": "Nathan Fleischmann",
+            "subtitle": "UX Manager at Accruen",
             "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
-            "avatar": "assets/images/avatar/avatar-june-oliver.jpg",
-            "text": "“ Called saw fly bring beginning very, may so sixth fowl created replenish fill greater replenish was and earth green bearing. ”"
+            "avatar": "assets/images/about/nathan.jpg",
+            "text": "“ Mandi Butynski is not only a great user experience designer, she has the people skills to execute and lead teams to success. At her time at Accruent, she was very soon recognize of these highly sought soft skills and rapidly became a key team member I would always be able to reach out and trust, no matter the ask or size of ask. ”"
         },
-        "james_hamilton": {
-            "name": "James Hamilton",
-            "subtitle": "Unvab Inc.",
+        "tony_brown": {
+            "name": "Tony Brown, Ph.D",
+            "subtitle": "App Dev Delivery Leader at DXC",
             "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
-            "avatar": "assets/images/avatar/avatar-james-hamilton.jpg",
-            "text": "“ Replenish firmament, god days over. Creeping spirit him place for moved second. ”"
+            "avatar": "assets/images/about/tony.jpg",
+            "text": "“ Mandi is a wonderful leader within DXC’s Digital Transformation Center, building up the UX team and delivering wonderful work to our clients. She has hands on design expertise and a passion for working with clients to solve complex design problems. We have partnered on many UX efforts and I view Mandi as a trusted partner in creating elegant and intuitive design solutions with her team. ”"
+        },
+        "katie_riles": {
+            "name": "Katie Riles",
+            "subtitle": "Senior Product Designer DXC",
+            "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
+            "avatar": "assets/images/about/katie.jpg",
+            "text": "“ Mandi is rocking at UX Capability Lead. She has worked to establish what UX is in the center and evangelizing UX, building up the UX team and organize us all. Mandi does not wait to be told to take action she see a hole and fills it. ”"
         }
     },
     "person": {
