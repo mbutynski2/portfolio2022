@@ -149,7 +149,7 @@
                     }
                 },
                 "portfolio-single-style-1.html": {
-                    "name": "Journey to UX",
+                    "name": "Project Spotlights",
                     "sub": {
                         "portfolio-single-style-1.html": {
                             "name": "Style 1"
@@ -297,8 +297,8 @@
         },
         "funny_dog": {
             "href": "portfolio-single-style-4.html",
-            "title": "Customer Advisory Board",
-            "category": ["project", "#"],
+            "title": "Certainly Re-brand",
+            "category": ["case study", "#"],
             "text": "Second be seed gathering our you're one open have a morning greater their.",
             "image": {
                 "lg": "assets/images/portfolio/funny-dog-1340-860.jpg",
@@ -348,13 +348,13 @@
             }
         },
         "identity_design": {
-            "href": "portfolio-single-style-2.html",
-            "title": "My Process",
-            "category": ["article", "#"],
+            "href": "project-cab-accruent.html",
+            "title": "Customer Advisory Board",
+            "category": ["project", "#"],
             "text": "Male let likeness day. Be from called signs light form let multiply air darkness.",
             "image": {
                 "lg": "assets/images/portfolio/identity-design-1340-860.jpg",
-                "md": "assets/images/portfolio/identity-design-1200-865.jpg",
+                "md": "assets/images/projects/accruent/CAB-hero-1200-865.jpg",
                 "sm_vertical": "assets/images/portfolio/identity-design-740-860.jpg",
                 "sm": "assets/images/portfolio/identity-design-740-540.jpg",
                 "xs": "assets/images/portfolio/identity-design-540-540.jpg"
@@ -551,7 +551,7 @@
             "04": ["assets/images/single-portfolio/style-4-4-1920-1080.jpg", "assets/images/single-portfolio/style-4-4-1920-1080.jpg"]
         },
         "style_5": {
-            "banner": "assets/images/single-portfolio/style-5-1-1920-1080.jpg",
+            "banner": "assets/images/projects/accruent/CAB-hero-1920-1080.jpg",
             "02": ["assets/images/single-portfolio/style-5-2-1540-900.jpg", "assets/images/single-portfolio/style-5-2-1920-1080.jpg"],
             "03": ["assets/images/single-portfolio/style-5-3-1540-900.jpg", "assets/images/single-portfolio/style-5-3-1920-1080.jpg"],
             "04": ["assets/images/single-portfolio/style-5-4-1540-900.jpg", "assets/images/single-portfolio/style-5-4-1920-1080.jpg"]
