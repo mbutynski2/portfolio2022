@@ -542,7 +542,12 @@
         "style_3": {
             "01": ["assets/images/projects/accruent/Slide3-1170-658.jpeg", "assets/images/projects/accruent/Slide3-1920-1080.jpeg"],
             "02": ["assets/images/projects/accruent/Slide4-1170-658.jpeg", "assets/images/projects/accruent/Slide4-1920-1080.jpeg"],
-            "03": ["assets/images/projects/accruent/Slide5-1170-658.jpeg", "assets/images/projects/accruent/Slide5-1920-1080.jpeg"]
+            "03": ["assets/images/projects/accruent/Slide5-1170-658.jpeg", "assets/images/projects/accruent/Slide5-1920-1080.jpeg"],
+            "04": ["assets/images/projects/accruent/Slide6-1170-658.jpeg", "assets/images/projects/accruent/Slide6-1920-1080.jpeg"],
+            "05": ["assets/images/projects/accruent/Slide7-1170-658.jpeg", "assets/images/projects/accruent/Slide7-1920-1080.jpeg"],
+            "06": ["assets/images/projects/accruent/Slide8-1170-658.jpeg", "assets/images/projects/accruent/Slide8-1920-1080.jpeg"],
+            "07": ["assets/images/projects/accruent/Slide9-1170-658.jpeg", "assets/images/projects/accruent/Slide9-1920-1080.jpeg"],
+            "08": ["assets/images/projects/accruent/Slide10-1170-658.jpeg", "assets/images/projects/accruent/Slide10-1920-1080.jpeg"]
         },
         "style_4": {
             "01": ["assets/images/single-portfolio/style-4-1-1920-1080.jpg", "assets/images/single-portfolio/style-4-1-1920-1080.jpg"],
