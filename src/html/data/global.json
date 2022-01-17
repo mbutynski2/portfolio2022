@@ -554,7 +554,11 @@
             "banner": "assets/images/projects/accruent/CAB-hero-1920-1080.jpg",
             "02": ["assets/images/single-portfolio/style-5-2-1540-900.jpg", "assets/images/single-portfolio/style-5-2-1920-1080.jpg"],
             "03": ["assets/images/single-portfolio/style-5-3-1540-900.jpg", "assets/images/single-portfolio/style-5-3-1920-1080.jpg"],
-            "04": ["assets/images/single-portfolio/style-5-4-1540-900.jpg", "assets/images/single-portfolio/style-5-4-1920-1080.jpg"]
+            "04": ["assets/images/single-portfolio/style-5-3-1540-900.jpg", "assets/images/single-portfolio/style-5-3-1920-1080.jpg"],
+            "05": ["assets/images/single-portfolio/style-5-3-1540-900.jpg", "assets/images/single-portfolio/style-5-3-1920-1080.jpg"],
+            "06": ["assets/images/single-portfolio/style-5-3-1540-900.jpg", "assets/images/single-portfolio/style-5-3-1920-1080.jpg"],
+            "07": ["assets/images/single-portfolio/style-5-3-1540-900.jpg", "assets/images/single-portfolio/style-5-3-1920-1080.jpg"],
+            "08": ["assets/images/single-portfolio/style-5-4-1540-900.jpg", "assets/images/single-portfolio/style-5-4-1920-1080.jpg"]
         },
         "style_6": {
             "slide_1": "assets/images/single-portfolio/style-6-slide-1-1920-1080.jpg",
