@@ -148,9 +148,15 @@
                         }
                     }
                 },
-                "portfolio-single-style-1.html": {
+                "gallery-home.html": {
                     "name": "Gallery",
                     "sub": {
+                        "case-study-app_central.html": {
+                            "name": "Approval Central"
+                        },
+                        "case-study-inn_tracker.html": {
+                            "name": "Innovation Tracker"
+                        },
                         "portfolio-single-style-1.html": {
                             "name": "Style 1"
                         },
