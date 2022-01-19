@@ -149,7 +149,7 @@
                     }
                 },
                 "portfolio-single-style-1.html": {
-                    "name": "Project Spotlights",
+                    "name": "Gallery",
                     "sub": {
                         "portfolio-single-style-1.html": {
                             "name": "Style 1"
@@ -174,7 +174,7 @@
             }
         },
         "blog-col-1.html": {
-            "name": "articles",
+            "name": "blog",
             "sub": {
                 "about-us.html": {
                     "name": "About Us",
