@@ -32,6 +32,11 @@
                     "image": "assets/images/demos/home2.jpg"
                 },
 
+                "my-home.html": {
+                    "name": "my-home",
+                    "image": "assets/images/demos/home2.jpg"
+                },
+
                 "simple-portfolio.html": {
                     "name": "simple portofolio",
                     "image": "assets/images/demos/simple-portfolio.jpg"
@@ -74,7 +79,7 @@
                 }
             }
         },
-        "index.html": {
+        "gallery-home.html": {
             "name": "projects",
             "sub": {
                 "case-study-analytics.html": {
@@ -373,7 +378,7 @@
         "package_design": {
             "href": "portfolio-single-style-3.html",
             "title": "It Starts with a Sketch",
-            "category": ["article", "#"],
+            "category": ["post", "#"],
             "image": {
                 "md": "assets/images/portfolio/package-design-1200-856.jpg",
                 "md_vertical": "assets/images/portfolio/package-design-1200-1330.jpg",
