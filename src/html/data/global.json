@@ -311,16 +311,16 @@
         },
         "funny_dog": {
             "href": "portfolio-single-style-4.html",
-            "title": "Certainly Re-brand",
+            "title": "Certainly Auto",
             "category": ["case study", "#"],
             "text": "Second be seed gathering our you're one open have a morning greater their.",
             "image": {
-                "lg": "assets/images/portfolio/funny-dog-1340-860.jpg",
-                "md": "assets/images/portfolio/funny-dog-1200-865.jpg",
-                "md_vertical": "assets/images/portfolio/funny-dog-1200-1330.jpg",
-                "sm": "assets/images/portfolio/funny-dog-740-540.jpg",
-                "sm_vertical": "assets/images/portfolio/funny-dog-740-860.jpg",
-                "xs": "assets/images/portfolio/funny-dog-540-540.jpg"
+                "lg": "assets/images/case-study/certainly/certainly-lg-1340-860.jpg",
+                "md": "assets/images/case-study/certainly/certainly-md-1200-865.jpg",
+                "md_vertical": "assets/images/case-study/certainly/certainly-md_vert-1200-1330.jpg",
+                "sm": "assets/images/case-study/certainly/certainly-sm-740-540.jpg",
+                "sm_vertical": "assets/images/case-study/certainly/certainly-sm_vert-740-860.jpg",
+                "xs": "assets/images/case-study/certainly/certainly-xs-540-540.jpg"
             },
             "button": "view project",
             "button_icon": "<svg class='icon-arrow icon-arrow-right' width='25' height='10' viewBox='0 0 25 10' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M20 1L24 5L20 9' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/><path d='M7 5L24 5' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/></svg>"
@@ -364,8 +364,8 @@
             }
         },
         "identity_design": {
-            "href": "project-cab-accruent.html",
-            "title": "Customer Advisory Board",
+            "href": "case-study-app_central.html",
+            "title": "Approval Central",
             "category": ["project", "#"],
             "text": "Male let likeness day. Be from called signs light form let multiply air darkness.",
             "image": {
@@ -383,11 +383,12 @@
             "title": "It Starts with a Sketch",
             "category": ["post", "#"],
             "image": {
-                "md": "assets/images/portfolio/package-design-1200-856.jpg",
-                "md_vertical": "assets/images/portfolio/package-design-1200-1330.jpg",
-                "sm": "assets/images/portfolio/package-design-740-540.jpg",
-                "sm_vertical": "assets/images/portfolio/package-design-740-860.jpg",
-                "xs": "assets/images/portfolio/package-design-540-540.jpg"
+                "lg": "assets/images/blog/blog2-sketch/sketch-lg-1340-860.jpg",
+                "md": "assets/images/blog/blog2-sketch/sketch-md-1200-865.jpg",
+                "md_vertical": "assets/images/blog/blog2-sketch/sketch-md_vert-1200-1330.jpg",
+                "sm": "assets/images/blog/blog2-sketch/sketch-sm-740-540.jpg",
+                "sm_vertical": "assets/images/blog/blog2-sketch/sketch-sm_vert-740-860.jpg",
+                "xs": "assets/images/blog/blog2-sketch/sketch-xs-540-540.jpg"
             }
         },
         "video_tutorial": {
