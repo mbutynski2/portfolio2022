@@ -369,11 +369,12 @@
             "category": ["project", "#"],
             "text": "Male let likeness day. Be from called signs light form let multiply air darkness.",
             "image": {
-                "lg": "assets/images/portfolio/identity-design-1340-860.jpg",
-                "md": "assets/images/projects/accruent/CAB-hero-1200-865.jpg",
-                "sm_vertical": "assets/images/portfolio/identity-design-740-860.jpg",
-                "sm": "assets/images/portfolio/identity-design-740-540.jpg",
-                "xs": "assets/images/portfolio/identity-design-540-540.jpg"
+                "lg": "assets/images/case-study/app-central/appcentral-lg-1340-860.jpg",
+                "md": "assets/images/case-study/app-central/appcentral-md-1200-865.jpg",
+                "md_vertical": "assets/images/case-study/app-central/appcentral-md_vert-1200-1330.jpg",
+                "sm_vertical": "assets/images/case-study/app-central/appcentral-sm_vert-740-860.jpg",
+                "sm": "assets/images/case-study/app-central/appcentral-sm-740-540.jpg",
+                "xs": "assets/images/case-study/app-central/appcentral-xs-540-540.jpg"
             },
             "button": "view project",
             "button_icon": "<svg class='icon-arrow icon-arrow-right' width='25' height='10' viewBox='0 0 25 10' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M20 1L24 5L20 9' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/><path d='M7 5L24 5' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/></svg>"
