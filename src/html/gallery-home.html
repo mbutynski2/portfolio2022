@@ -44,7 +44,11 @@
         </div>
         {% endmacro %}
         <div class="row gh-1 gv-1 isotope-grid">
+            {{ portfolio_grid('creative_branding', 'branding') }}
+            {{ portfolio_grid_vertical('app_design', 'marketing') }}
             {{ portfolio_grid('gobe_mockup', 'branding') }}
+            {{ portfolio_grid('funny_dog', 'case_study') }}
+            {{ portfolio_grid('identity_design', 'project') }}
             {{ portfolio_grid_vertical('brand_design', 'marketing') }}
             {{ portfolio_grid('bag_design', 'branding') }}
             {{ portfolio_grid_vertical('funny_dog', 'photography') }}
