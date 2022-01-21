@@ -473,13 +473,16 @@
             }
         },
         "gobe_mockup": {
-            "href": "portfolio-single-style-6.html",
-            "title": "Gobe Mockup",
+            "href": "case-study-my_process.html",
+            "title": "My Process",
             "category": ["branding", "#"],
             "image": {
-                "md": "assets/images/portfolio/gobe-mockup-1200-865.jpg",
-                "sm": "assets/images/portfolio/gobe-mockup-740-540.jpg",
-                "xs": "assets/images/portfolio/gobe-mockup-540-540.jpg"
+                "md_vertical": "assets/images/blog/blog1-my-process/myprocess-md_vert-1200-1330.jpg",
+                "sm_vertical": "assets/images/blog/blog1-my-process/myprocess-sm_vert-740-860.jpg",
+                "lg": "assets/images/blog/blog1-my-process/myprocess-lg-1340-860.jpg",
+                "md": "assets/images/blog/blog1-my-process/myprocess-md-1200-865.jpg",
+                "sm": "assets/images/blog/blog1-my-process/myprocess-sm-740-540.jpg",
+                "xs": "assets/images/blog/blog1-my-process/myprocess-xs-540-540.jpg"
             }
         },
         "bag_design": {
