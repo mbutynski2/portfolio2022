@@ -363,7 +363,7 @@
                 "xs": "assets/images/portfolio/watch-design-540-540.jpg"
             }
         },
-        "identity_design": {
+        "app_central": {
             "href": "case-study-app_central.html",
             "title": "Approval Central",
             "category": ["project", "#"],
