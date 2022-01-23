@@ -503,14 +503,17 @@
                 "xs": "assets/images/case-study/inn-tracker/innovation-xs-540-540.jpg"
             }
         },
-        "creative_socks": {
-            "href": "portfolio-single-style-2.html",
+        "accruent_best": {
+            "href": "portfolio-accruent.html",
             "title": "Creative Socks",
             "category": ["branding", "#"],
             "image": {
-                "md": "assets/images/portfolio/creative-socks-1200-865.jpg",
-                "sm": "assets/images/portfolio/creative-socks-740-540.jpg",
-                "xs": "assets/images/portfolio/creative-socks-540-540.jpg"
+                "lg": "assets/images/projects/accruent/accruent-lg-1340-860.png",
+                "md": "assets/images/projects/accruent/accruent_vert-1200-865.png",
+                "md_vertical": "assets/images/projects/accruent/accruent_vert-1200-1330.png",
+                "sm": "assets/images/projects/accruent/accruent-sm-740-540.png",
+                "sm_vertical": "assets/images/projects/accruent/accruent-sm_vert-740-860.png",
+                "xs": "assets/images/projects/accruent/accruent-xs-540-540.png"
             }
         },
         "dog_photoset": {
