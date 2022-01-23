@@ -363,11 +363,12 @@
             "title": "Watch Design",
             "category": ["design", "#"],
             "image": {
-                "md": "assets/images/portfolio/watch-design-1200-865.jpg",
-                "md_vertical": "assets/images/portfolio/watch-design-1200-1330.jpg",
-                "sm": "assets/images/portfolio/watch-design-740-540.jpg",
-                "sm_vertical": "assets/images/portfolio/watch-design-740-860.jpg",
-                "xs": "assets/images/portfolio/watch-design-540-540.jpg"
+                "lg": "assets/images/projects/netchex/netchex-lg-1340-860.png",
+                "md_vertical": "assets/images/projects/netchex/netchex_vert-1200-1330.png",
+                "md": "assets/images/projects/netchex/netchex-md-1200-865.png",
+                "sm": "assets/images/projects/netchex/netchex-sm-740-540.png",
+                "sm_vertical": "assets/images/projects/netchex/netchex-sm_vert-740-860.png",
+                "xs": "assets/images/projects/netchex/netchex-xs-540-540.png"
             }
         },
         "app_central": {
