@@ -64,6 +64,18 @@
         </div>
     </div>
 
+<section class="mt-lg-0 pb-0 mt-0 mb-5 pt-lg-0 mb-lg-6">
+        <div class="container">
+        <div class="hr"></div>
+            <div class="col-md-12 mb-4 mb-lg-7 show-on-scroll" data-show-duration="500" data-show-distance="20" data-show-delay="50">
+            <div class="row justify-content-center text-center">
+                <div class="mt-5 col-lg-6 col-xl-8 px-0 px-lg-2 px-md-2 ">
+                    <h2 class="display-2 mb-0">featured</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
 <!-- possible featured work section
 <div class="py-100">
     <div class="container isotope" data-isotope-mode="fitRows">
@@ -106,7 +118,7 @@
 
 <!-- insert line on top
     <hr class="mt-0">--> 
-
+<!--
     <ul class="nav justify-content-center isotope-options mb-60 show-on-scroll" data-show-duration="500">
         <li class="nav-item active show-on-scroll" data-show-duration="500" data-show-distance="10" data-show-delay="150">
             <a href="#" data-filter="all" class="nav-link"><div class="nav-link-name">featured</div></a>
@@ -121,7 +133,7 @@
             <a href="#" data-filter="project" class="nav-link"><div class="nav-link-name">projects</div></a>
         </li>
     </ul>
-
+-->
     <div class="pt-30 show-on-scroll" data-show-duration="800">
         {% macro portfolio_grid(name="", filter="", href="#", classes="") %}
         <div class="col-12 col-sm-6 isotope-item{% if class %} {{ class }}{% endif %}" data-filters="{{ filter }}">
@@ -129,12 +141,10 @@
         </div>
         {% endmacro %}
         <div class="row gh-1 gv-1 isotope-grid show-on-scroll" data-show-duration="500" data-show-distance="20" data-show-delay="350">
-            {{ portfolio_grid('analyticsa_plus', 'case_study', 'mobile', classes=' card-image-lg') }}
+            {{ portfolio_grid('analyticsa_plus', 'case_study', 'mobile', classes=' card-image-md') }}
             {{ portfolio_grid('flight_pro', 'case_study', classes=' card-image-md') }}
-            {{ portfolio_grid('ls-hub', 'case_study', classes=' card-image-lg') }}
-            {{ portfolio_grid('sketch_post', 'post', classes=' card-image-md') }}
-            {{ portfolio_grid('certainly_auto', 'case_study', classes=' card-image-lg') }}
-            {{ portfolio_grid('app_central', 'project', classes=' card-image-md') }}
+            {{ portfolio_grid('ls-hub', 'case_study', classes=' card-image-md') }}
+            {{ portfolio_grid('certainly_auto', 'post', classes=' card-image-md') }}
         </div>
     </div>
 
@@ -456,6 +466,18 @@
                 </div>
             </div>
         </div>
+
+<h2 class="text-center mt-130 pb-30 mb-60">Recent Posts</h2>
+    <div class="row gh-1 gv-1 mb-n8">
+        {% macro card_blog_column(name="", filter="", delay="") %}
+            <div class="col-12 col-md-6 col-lg-4 show-on-scroll" data-show-duration="600" data-show-distance="20" data-show-delay="{{ delay }}">
+                {{ card_blog_global(name) }}
+            </div>
+        {% endmacro %}
+        {{ card_blog_column('01', 'lifestyle', '50') }}
+        {{ card_blog_column('02', 'design', '100') }}
+        {{ card_blog_column('03', 'business', '150') }}
+    </div>
 
 </div>
 
