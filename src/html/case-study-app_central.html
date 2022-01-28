@@ -121,18 +121,7 @@
             <p class="lead">The POC was approved and the MVP deployed! We reduced manager headaches from more than 15 minutes initially to less than 5 minutes to resolve a request. This resulted in a decrease of time to task by at least 10 minutes per request. We also improved our manager procurement efficency rating from 36% unsatisfactory to 92% outstanding.</p>
         </div>
     </div>
-
-    <h2 class="text-center mt-130 pb-30 mb-60">Related</h2>
-    <div class="row gh-1 gv-1 mb-n8">
-        {% macro card_blog_column(name="", filter="", delay="") %}
-            <div class="col-12 col-md-6 col-lg-4 show-on-scroll" data-show-duration="600" data-show-distance="20" data-show-delay="{{ delay }}">
-                {{ card_blog_global(name) }}
-            </div>
-        {% endmacro %}
-        {{ card_blog_column('01', 'lifestyle', '50') }}
-        {{ card_blog_column('02', 'design', '100') }}
-        {{ card_blog_column('03', 'business', '150') }}
-    </div>
+</div>
 
     <div class="page-navigation mt-160">
         <a href="#" class="btn btn-clean">{{ icon.arrow_left | replace(' width', ' class="icon-arrow icon-arrow-left" width') | safe }}prev<span class="d-none d-sm-inline"></span></a>
