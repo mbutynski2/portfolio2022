@@ -19,16 +19,10 @@
             <a href="#" data-filter="all" class="nav-link"><div class="nav-link-name">all projects</div></a>
         </li>
         <li class="nav-item show-on-scroll" data-show-duration="500" data-show-distance="10" data-show-delay="150">
-            <a href="#" data-filter="branding" class="nav-link"><div class="nav-link-name">branding</div></a>
+            <a href="#" data-filter="case-study" class="nav-link"><div class="nav-link-name">recent case studies</div></a>
         </li>
         <li class="nav-item show-on-scroll" data-show-duration="500" data-show-distance="10" data-show-delay="200">
-            <a href="#" data-filter="design" class="nav-link"><div class="nav-link-name">design</div></a>
-        </li>
-        <li class="nav-item show-on-scroll" data-show-duration="500" data-show-distance="10" data-show-delay="250">
-            <a href="#" data-filter="photography" class="nav-link"><div class="nav-link-name">photography</div></a>
-        </li>
-        <li class="nav-item show-on-scroll" data-show-duration="500" data-show-distance="10" data-show-delay="300">
-            <a href="#" data-filter="marketing" class="nav-link"><div class="nav-link-name">marketing</div></a>
+            <a href="#" data-filter="design" class="nav-link"><div class="nav-link-name">design projects</div></a>
         </li>
     </ul>
 
@@ -44,14 +38,14 @@
         </div>
         {% endmacro %}
         <div class="row gh-1 gv-1 isotope-grid">
-            {{ portfolio_grid('flight_pro', 'branding') }}
-            {{ portfolio_grid_vertical('analyticsa_plus', 'marketing') }}
-            {{ portfolio_grid('my_process', 'branding') }}
-            {{ portfolio_grid_vertical('ls-hub', 'photography') }}
-            {{ portfolio_grid_vertical('certainly_auto', 'project') }}
+            {{ portfolio_grid('flight_pro', 'case-study') }}
+            {{ portfolio_grid_vertical('analyticsa_plus', 'case-study') }}
+            {{ portfolio_grid('my_process', 'design') }}
+            {{ portfolio_grid_vertical('ls-hub', 'case-study') }}
+            {{ portfolio_grid_vertical('certainly_auto', 'case-study') }}
             {{ portfolio_grid('app_central', 'design') }}
-            {{ portfolio_grid('inn_tracker', 'branding') }} 
-            {{ portfolio_grid_vertical('watch_design', 'marketing') }}        
+            {{ portfolio_grid('inn_tracker', 'design') }} 
+            {{ portfolio_grid_vertical('watch_design', 'design') }}        
             {{ portfolio_grid('accruent_best', 'design') }}
         </div>
     </div>
