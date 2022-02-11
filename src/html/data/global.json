@@ -382,11 +382,11 @@
             "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
         },
         "style_2_netchex": {
-            "01": ["assets/images/projects/accruent/accruent_vert-1200-865.png", "assets/images/projects/accruent/accruent_vert-1200-865.png"],
-            "02": ["assets/images/projects/accruent/Acc_sc01-1170X585.png", "assets/images/projects/accruent/Acc_sc01-1920X1080.png"],
-            "03": ["assets/images/projects/accruent/Acc_sc02 -1170X585.png", "assets/images/projects/accruent/Acc_sc02-1920X1080.png"],
-            "04": ["assets/images/projects/accruent/Acc_sc03-1170X585.png", "assets/images/projects/accruent/Acc_sc03-1920X1080.png"],
-            "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
+            "01": ["assets/images/projects/netchex/netchex-md-1200-865.png", "assets/images/projects/netchex/netchex-lg-1340-860.png"],
+            "02": ["assets/images/projects/netchex/net01_1170_585@2x.png", "assets/images/projects/netchex/net01_1920_1080@2x.png"],
+            "03": ["assets/images/projects/netchex/net02_1170_585@2x.png", "assets/images/projects/netchex/net02_1920_1080@2x.png"],
+            "04": ["assets/images/projects/netchex/net03_1170_585@2x.png", "assets/images/projects/netchex/net03_1920_1080@2x.png"],
+            "05": ["assets/images/projects/netchex/net04_1170_585@2x.png", "assets/images/projects/netchex/net04_1920_1080@2x.png"]
         },
         "style_2_bluecross": {
             "01": ["assets/images/projects/accruent/accruent_vert-1200-865.png", "assets/images/projects/accruent/accruent_vert-1200-865.png"],
