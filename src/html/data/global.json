@@ -237,16 +237,16 @@
                 "md": "assets/images/portfolio/cool-photography-1200-856.jpg"
             }
         },
-        "boxed_water": {
+        "bcbs": {
             "href": "project-bluecross.html",
             "title": "Blue Cross",
             "category": ["design", "#"],
             "image": {
-                "md": "assets/images/portfolio/boxed-water-1200-856.jpg",
-                "md_vertical": "assets/images/portfolio/boxed-water-1200-1330.jpg",
-                "sm": "assets/images/portfolio/boxed-water-740-540.jpg",
-                "sm_vertical": "assets/images/portfolio/boxed-water-740-860.jpg",
-                "xs": "assets/images/portfolio/boxed-water-540-540.jpg"
+                "md": "assets/images/projects/bluecross/bcbs-md-1200-865.jpg",
+                "md_vertical": "assets/images/projects/bluecross/bcbs-md_vert-1200-1330.jpg",
+                "sm": "assets/images/projects/bluecross/bcbs-sm-740-540.jpg",
+                "sm_vertical": "assets/images/projects/bluecross/bcbs-sm_vert-740-860.jpg",
+                "xs": "assets/images/projects/bluecross/bcbs-xs-540-540.jpg"
             }
         },
         "fashion_model": {
