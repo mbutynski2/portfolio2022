@@ -155,7 +155,7 @@
                 "sm": "assets/images/portfolio/mobile-app-740-540.jpg"
             }
         },
-        "watch_design": {
+        "netchex": {
             "href": "project-netchex.html",
             "title": "Netchex",
             "category": ["design", "#"],
