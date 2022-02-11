@@ -17,17 +17,11 @@
             <li class="nav-item active show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="100">
                 <a href="#" data-filter="all" class="nav-link"><div class="nav-link-name">all posts</div></a>
             </li>
-            <li class="nav-item show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="150">
-                <a href="#" data-filter="lifestyle" class="nav-link"><div class="nav-link-name">lifestyle</div></a>
-            </li>
             <li class="nav-item show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="200">
                 <a href="#" data-filter="design" class="nav-link"><div class="nav-link-name">design</div></a>
             </li>
             <li class="nav-item show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="250">
-                <a href="#" data-filter="business" class="nav-link"><div class="nav-link-name">business</div></a>
-            </li>
-            <li class="nav-item show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="300">
-                <a href="#" data-filter="company" class="nav-link"><div class="nav-link-name">company</div></a>
+                <a href="#" data-filter="leadership" class="nav-link"><div class="nav-link-name">leadership</div></a>
             </li>
         </ul>
 
@@ -36,10 +30,9 @@
                 {% macro card_blog_column(name="", filter="") %}
                     {{ card_blog_global(name, 'card-md isotope-item', data='data-filters=' + filter, style="horizontal-full") }}
                 {% endmacro %}
-                {{ card_blog_column('01', 'lifestyle') }}
-                {{ card_blog_column('02', 'design') }}
-                {{ card_blog_column('03', 'business') }}
-                {{ card_blog_column('04', 'company') }}
+                {{ card_blog_column('01', 'design') }}
+                {{ card_blog_column('02', 'leadership') }}
+                {{ card_blog_column('03', 'leadership') }}
             </div>
         </div>
 
