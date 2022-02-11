@@ -19,237 +19,34 @@
     "footer_logo_width": "184",
     "footer_3_logo_width": "108",
     "navigation": {
-        "index-1.html": {
-            "name": "home",
-            "mega": "true",
-            "sub": {
-                "home.html": {
-                    "name": "main home",
-                    "image": "assets/images/demos/main-home.jpg"
-                },
-                "home2.html": {
-                    "name": "home2",
-                    "image": "assets/images/demos/home2.jpg"
-                },
-
-                "my-home.html": {
-                    "name": "my-home",
-                    "image": "assets/images/demos/home2.jpg"
-                },
-
-                "simple-portfolio.html": {
-                    "name": "simple portofolio",
-                    "image": "assets/images/demos/simple-portfolio.jpg"
-                },
-                "creative-agency.html": {
-                    "name": "creative agency",
-                    "image": "assets/images/demos/creative-agency.jpg"
-                },
-                "freelancer-portfolio.html": {
-                    "name": "freelancer portfolio",
-                    "image": "assets/images/demos/freelancer-portfolio.jpg"
-                },
-                "interactive-links-dark.html": {
-                    "name": "interactive dark",
-                    "image": "assets/images/demos/interactive-dark.jpg"
-                },
-                "interactive-links-light.html": {
-                    "name": "interactive light",
-                    "image": "assets/images/demos/interactive-light.jpg"
-                },
-                "left-menu.html": {
-                    "name": "left menu",
-                    "image": "assets/images/demos/left-menu.jpg"
-                },
-                "digital-agency.html": {
-                    "name": "digital agency",
-                    "image": "assets/images/demos/digital-agency.jpg"
-                },
-                "carousel-dark.html": {
-                    "name": "carousel dark",
-                    "image": "assets/images/demos/carousel-dark.jpg"
-                },
-                "carousel-light.html": {
-                    "name": "carousel light",
-                    "image": "assets/images/demos/carousel-light.jpg"
-                },
-                "fullscreen-showcase.html": {
-                    "name": "fullscreen showcase",
-                    "image": "assets/images/demos/fullscreen-showcase.jpg"
-                }
-            }
+        "index.html": {
+            "name": "home"
         },
         "gallery-home.html": {
             "name": "projects",
             "sub": {
                 "case-study-analytics.html": {
-                    "name": "Analytics Plus",
-                    "sub": {
-                        "portfolio-col-1-style-1.html": {
-                            "name": "Style 1"
-                        },
-                        "portfolio-col-1-style-2.html": {
-                            "name": "Style 2"
-                        }
-                    }
+                    "name": "Analytics Plus"
                 },
                 "case-study-ls_hub.html": {
-                    "name": "LifeSphere Hub",
-                    "sub": {
-                        "portfolio-col-2-style-1.html": {
-                            "name": "Style 1"
-                        },
-                        "portfolio-col-2-style-2.html": {
-                            "name": "Style 2"
-                        },
-                        "portfolio-col-2-style-3.html": {
-                            "name": "Style 3"
-                        },
-                        "portfolio-col-2-style-4.html": {
-                            "name": "Style 4"
-                        },
-                        "portfolio-col-2-style-5.html": {
-                            "name": "Style 5"
-                        },
-                        "portfolio-col-2-style-6.html": {
-                            "name": "Style 6"
-                        }
-                    }
+                    "name": "LifeSphere Hub"
                 },
                 "case-study-flightpro.html": {
-                    "name": "Flight Pro",
-                    "sub": {
-                        "portfolio-col-3-style-1.html": {
-                            "name": "Style 1"
-                        },
-                        "portfolio-col-3-style-2.html": {
-                            "name": "Style 2"
-                        },
-                        "portfolio-col-3-style-3.html": {
-                            "name": "Style 3"
-                        },
-                        "portfolio-col-3-style-4.html": {
-                            "name": "Style 4"
-                        },
-                        "portfolio-col-3-style-5.html": {
-                            "name": "Style 5"
-                        }
-                    }
+                    "name": "Flight Pro"
                 },
                 "case-study-certainly.html": {
-                    "name": "Certainly",
-                    "sub": {
-                        "portfolio-col-4-style-1.html": {
-                            "name": "Style 1"
-                        },
-                        "portfolio-col-4-style-2.html": {
-                            "name": "Style 2"
-                        },
-                        "portfolio-col-4-style-3.html": {
-                            "name": "Style 3"
-                        },
-                        "portfolio-col-4-style-4.html": {
-                            "name": "Style 4"
-                        }
-                    }
+                    "name": "Certainly"
                 },
                 "gallery-home.html": {
-                    "name": "Gallery",
-                    "sub": {
-                        "case-study-app_central.html": {
-                            "name": "Approval Central"
-                        },
-                        "case-study-inn_tracker.html": {
-                            "name": "Innovation Tracker"
-                        },
-                        "portfolio-single-style-1.html": {
-                            "name": "Style 1"
-                        },
-                        "portfolio-single-style-2.html": {
-                            "name": "Style 2"
-                        },
-                        "portfolio-single-style-3.html": {
-                            "name": "Style 3"
-                        },
-                        "portfolio-single-style-4.html": {
-                            "name": "Style 4"
-                        },
-                        "portfolio-single-style-5.html": {
-                            "name": "Style 5"
-                        },
-                        "project-accruent.html": {
-                            "name": "best of Accruent"
-                        },
-                        "case-study-my_process.html": {
-                            "name": "my process"
-                        },
-                        "portfolio-single-style-6.html": {
-                            "name": "Style 6"
-                        }
-                    }
+                    "name": "Gallery"
                 }
             }
         },
         "blog-col-1-mab.html": {
-            "name": "blog",
-            "sub": {
-                "about-us.html": {
-                    "name": "Start with a Sketch",
-                    "sub": {
-                        "about-us.html": {
-                            "name": "About Us"
-                        },
-                        "about-us-2.html": {
-                            "name": "About Us 2"
-                        },
-                        "about-me.html": {
-                            "name": "About Me"
-                        }
-                    }
-                },
-                "services.html": {
-                    "name": "Services",
-                    "sub": {
-                        "services.html": {
-                            "name": "Services"
-                        },
-                        "single-service.html": {
-                            "name": "Single Service"
-                        }
-                    }
-                },
-                "blog-col-3.html": {
-                    "name": "Blog",
-                    "sub": {
-                        "blog-col-3.html": {
-                            "name": "3 column"
-                        },
-                        "blog-col-1.html": {
-                            "name": "1 column"
-                        },
-                        "single-post.html": {
-                            "name": "Single Post"
-                        }
-                    }
-                },
-                "coming-soon.html": {
-                    "name": "Coming Soon"
-                },
-                "404.html": {
-                    "name": "404"
-                }
-            }
+            "name": "blog"
         },
         "about-me.html": {
-            "name": "about",
-            "sub": {
-                "contact-1.html": {
-                    "name": "Contact 1"
-                },
-                "contact-2.html": {
-                    "name": "Contact 2"
-                }
-            }
+            "name": "about"
         }
     },
     "icon": {
