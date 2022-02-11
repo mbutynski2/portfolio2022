@@ -374,6 +374,34 @@
             "04": ["assets/images/projects/accruent/Acc_sc03-1170X585.png", "assets/images/projects/accruent/Acc_sc03-1920X1080.png"],
             "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
         },
+        "style_2_accruent": {
+            "01": ["assets/images/projects/accruent/accruent_vert-1200-865.png", "assets/images/projects/accruent/accruent_vert-1200-865.png"],
+            "02": ["assets/images/projects/accruent/Acc_sc01-1170X585.png", "assets/images/projects/accruent/Acc_sc01-1920X1080.png"],
+            "03": ["assets/images/projects/accruent/Acc_sc02 -1170X585.png", "assets/images/projects/accruent/Acc_sc02-1920X1080.png"],
+            "04": ["assets/images/projects/accruent/Acc_sc03-1170X585.png", "assets/images/projects/accruent/Acc_sc03-1920X1080.png"],
+            "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
+        },
+        "style_2_netchex": {
+            "01": ["assets/images/projects/accruent/accruent_vert-1200-865.png", "assets/images/projects/accruent/accruent_vert-1200-865.png"],
+            "02": ["assets/images/projects/accruent/Acc_sc01-1170X585.png", "assets/images/projects/accruent/Acc_sc01-1920X1080.png"],
+            "03": ["assets/images/projects/accruent/Acc_sc02 -1170X585.png", "assets/images/projects/accruent/Acc_sc02-1920X1080.png"],
+            "04": ["assets/images/projects/accruent/Acc_sc03-1170X585.png", "assets/images/projects/accruent/Acc_sc03-1920X1080.png"],
+            "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
+        },
+        "style_2_bluecross": {
+            "01": ["assets/images/projects/accruent/accruent_vert-1200-865.png", "assets/images/projects/accruent/accruent_vert-1200-865.png"],
+            "02": ["assets/images/projects/accruent/Acc_sc01-1170X585.png", "assets/images/projects/accruent/Acc_sc01-1920X1080.png"],
+            "03": ["assets/images/projects/accruent/Acc_sc02 -1170X585.png", "assets/images/projects/accruent/Acc_sc02-1920X1080.png"],
+            "04": ["assets/images/projects/accruent/Acc_sc03-1170X585.png", "assets/images/projects/accruent/Acc_sc03-1920X1080.png"],
+            "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
+        },
+        "style_2_ywcss": {
+            "01": ["assets/images/projects/accruent/accruent_vert-1200-865.png", "assets/images/projects/accruent/accruent_vert-1200-865.png"],
+            "02": ["assets/images/projects/accruent/Acc_sc01-1170X585.png", "assets/images/projects/accruent/Acc_sc01-1920X1080.png"],
+            "03": ["assets/images/projects/accruent/Acc_sc02 -1170X585.png", "assets/images/projects/accruent/Acc_sc02-1920X1080.png"],
+            "04": ["assets/images/projects/accruent/Acc_sc03-1170X585.png", "assets/images/projects/accruent/Acc_sc03-1920X1080.png"],
+            "05": ["assets/images/projects/accruent/Acc_sc04-1170X585.png", "assets/images/projects/accruent/Acc_sc04-1920X1080.png"]
+        },
         "style_3": {
             "01": ["assets/images/projects/accruent/Acc_sc01-1170X585.png", "assets/images/projects/accruent/Acc_sc01-1920X1080.png"],
             "02": ["assets/images/projects/accruent/Slide4-1170-658.jpeg", "assets/images/projects/accruent/Slide4-1920-1080.jpeg"],
