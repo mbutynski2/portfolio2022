@@ -25,17 +25,17 @@
         "gallery-home.html": {
             "name": "projects",
             "sub": {
-                "case-study-analytics.html": {
-                    "name": "Analytics Plus"
-                },
                 "case-study-ls_hub.html": {
                     "name": "LifeSphere Hub"
+                },
+                "case-study-certainly.html": {
+                    "name": "Certainly"
                 },
                 "case-study-flightpro.html": {
                     "name": "Flight Pro"
                 },
-                "case-study-certainly.html": {
-                    "name": "Certainly"
+                "case-study-analytics.html": {
+                    "name": "Analytics Plus"
                 },
                 "gallery-home.html": {
                     "name": "Gallery"
