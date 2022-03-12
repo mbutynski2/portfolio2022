@@ -70,7 +70,7 @@
             <div class="col-md-12 mb-4 mb-lg-7 show-on-scroll" data-show-duration="500" data-show-distance="20" data-show-delay="50">
             <div class="row justify-content-center text-center">
                 <div class="mt-5 col-lg-6 col-xl-8 px-0 px-lg-2 px-md-2 ">
-                    <h2 class="display-2 mb-0">featured</h2>
+                    <h2 class="display-2 mb-0 accent">featured</h2>
                 </div>
             </div>
         </div>
@@ -137,7 +137,7 @@
     <div class="pt-30 show-on-scroll" data-show-duration="800">
         {% macro portfolio_grid(name="", filter="", href="#", classes="") %}
         <div class="col-12 col-sm-6 isotope-item{% if class %} {{ class }}{% endif %}" data-filters="{{ filter }}">
-            {{ card_project_overlay_global(name=name, image_size='md', title_size='h4', classes='card-hover-appearance text-white text-center' + classes, bg="rgba(14, 14, 14, 0.7)") }}
+            {{ card_project_overlay_global(name=name, image_size='md', title_size='h4', classes='card-hover-appearance text-white text-center' + classes, bg="rgba(85, 29, 203, 0.8)") }}
         </div>
         {% endmacro %}
         <div class="row gh-1 gv-1 isotope-grid show-on-scroll" data-show-duration="500" data-show-distance="20" data-show-delay="350">
