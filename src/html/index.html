@@ -468,12 +468,61 @@
                 </div>
             </div>
         </div>
+    </div>
 
-        
+<div>
+    <div class="py-130 bg-pop text-white shape-parent overflow-hidden lines-style-4 mb-1">
+    <div class="line"></div>
+    <div class="line"></div>
 
-<h2 class="text-center mt-130 pb-30 mb-60 display-2 accent">recent posts</h2>
-    <div class="row gh-1 gv-1 mb-n8">
-        {% macro card_blog_column(name="", filter="", delay="") %}
+    <div class="shape mt-n160">
+        <svg data-rellax-speed="-1" width="535" height="525" viewBox="0 0 535 525" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="214.5" cy="204.5" r="320.5" fill="#551DCB"/>
+        </svg>
+    </div>
+    <div class="container show-on-scroll" data-show-duration="500" data-show-distance="20" data-show-delay="50">
+        <div class="row gh-1 gv-3">
+            <div class="col-lg-4 col-xl-3">
+                <div class="subtitle">testimonials</div>
+                <h2 class="h3 text-white">What they say about me</h2>
+            </div>
+            <div class="d-none d-lg-block col-lg-1 col-xl-2"></div>
+            <div class="col-lg-6">
+                <div class="swiper swiper-review-2" data-swiper-slides="1" data-swiper-gap="30" data-swiper-grabCursor="true">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            {% macro review_slide(name="") %}
+                            <div class="swiper-slide">
+                                <div class="media media-review d-flex">
+                                    <img src="{{ review[name].avatar }}" class="media-img rounded-circle" alt="">
+                                    <div class="media-body align-self-center">
+                                        <h5 class="media-title mt-0 text-white">{{ review[name].name }}</h5>
+                                        <div class="media-subtitle">{{ review[name].subtitle }}</div>
+                                    </div>
+                                    <p class="media-text mb-0 lead">{{ review[name].text }}</p>
+                                </div>
+                            </div>
+                            {% endmacro %}
+
+                            {{ review_slide('john_tidwell') }}
+                            {{ review_slide('nathan_fleischmann') }}
+                            {{ review_slide('tony_brown') }}
+                            {{ review_slide('katie_riles') }}
+                        </div>
+                    </div>
+                    <div class="swiper-button-next">{{ icon.arrow_right | safe }}</div>
+                    <div class="swiper-button-prev">{{ icon.arrow_left | safe }}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>       
+
+<section class="mt-lg-0 pb-30 mt-0 mb-5 pt-lg-0 mb-lg-6">
+     <div class="container">
+        <h2 class="text-center mt-130 pb-30 mb-60 display-2 accent">recent posts</h2>
+        <div class="row gh-1 gv-1 mb-n8">
+            {% macro card_blog_column(name="", filter="", delay="") %}
             <div class="col-12 col-md-6 col-lg-4 show-on-scroll" data-show-duration="600" data-show-distance="20" data-show-delay="{{ delay }}">
                 {{ card_blog_global(name) }}
             </div>
@@ -481,8 +530,9 @@
         {{ card_blog_column('01', 'lifestyle', '50') }}
         {{ card_blog_column('02', 'design', '100') }}
         {{ card_blog_column('03', 'business', '150') }}
+         </div>
+        </div>
     </div>
-
 </div>
 
 {% endblock %}
