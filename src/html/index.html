@@ -35,9 +35,9 @@
             <div class="d-none d-lg-block col order-lg-2"></div>
 
             <div class="col-12 col-lg-6 order-3 order-lg-1">
-                <p class="subtitle show-on-scroll" data-show-duration="600" data-show-delay="150">Product Design Leader</p>
-                <h1 class="h2 show-on-scroll mb-20" data-show-duration="500" data-show-distance="15" data-show-delay="200">Hi. I'm <span style="color:#551DCB">Mandi</span>. </h1>
-                 <h1 class="h3 show-on-scroll" data-show-duration="500" data-show-distance="15" data-show-delay="250">I design user-led applications people love. 😍</h1>
+                <p class="subtitle accent show-on-scroll" data-show-duration="600" data-show-delay="150">Product Design Leader</p>
+                <h1 class="h2 show-on-scroll mb-20 accent" data-show-duration="500" data-show-distance="15" data-show-delay="200">Hi. I'm <span style="color:#551DCB">Mandi</span>. </h1>
+                 <h1 class="h3 show-on-scroll accent" data-show-duration="500" data-show-distance="15" data-show-delay="250">I design user-led applications people love. 😍</h1>
                  <h6 class="mb-20 show-on-scroll" data-show-duration="500" data-show-distance="15" data-show-delay="300"><strong>8+</strong> years experience as a product designer. <strong>3+</strong> years empowering designers to lead. BFA from <strong>Savannah College of Art and Design.</strong></h6>
                  <!-- about me button
                 <a href="about-me.html" class="btn btn-dark btn-with-ball mt-5 show-on-scroll mb-30" data-show-duration="400" data-show-delay="350" data-show-distance="15">about me</a>-->
@@ -166,7 +166,7 @@
     </div>
 -->
 
-<ul class="nav justify-content-center isotope-options mb-30 mt-100 show-on-scroll" data-show-duration="500">
+<ul class="nav justify-content-center isotope-options accent mb-30 mt-100 show-on-scroll" data-show-duration="500">
         <li class="nav-item active show-on-scroll" data-show-duration="500" data-show-distance="10" data-show-delay="100">
         </li>
     </ul>
@@ -196,24 +196,24 @@
         <div class="row gh-1 gv-3 text-center text-lg-start text-xl-start justify-content-md-center">
             <div class="d-none d-xl-block col-lg-1"></div>
             <div class="col-12 col-lg-4">
-                <p class="subtitle mt-n10">client list & industries</p>
+                <p class="subtitle mt-n10 accent">client list & industries</p>
                 <h2 class="h3 accent">I've worked with 20+ brands across 7 diverse industries</h2>
-                <h2 class="subtitle mt-n10 pop">CMS & Technology</h2>
-                <h2 class="subtitle mt-n10 pop">Consumer Industries & Retail</h2>
-                <h2 class="subtitle mt-n10 pop">Healthcare & Life Sciences</h2>
-                <h2 class="subtitle mt-n10 pop">Insurance</h2>
-                <h2 class="subtitle mt-n10 pop">Manufacturing</h2>
-                <h2 class="subtitle mt-n10 pop">Public Sector</h2>
-                <h2 class="subtitle mt-n10 pop">Travel, Transportation & Hospitality</h2>
+                <h2 class="subtitle mt-n10">CMS & Technology</h2>
+                <h2 class="subtitle mt-n10">Consumer Industries & Retail</h2>
+                <h2 class="subtitle mt-n10">Healthcare & Life Sciences</h2>
+                <h2 class="subtitle mt-n10">Insurance</h2>
+                <h2 class="subtitle mt-n10">Manufacturing</h2>
+                <h2 class="subtitle mt-n10">Public Sector</h2>
+                <h2 class="subtitle mt-n10">Travel, Transportation & Hospitality</h2>
             </div>
             <div class="d-none d-lg-block col-lg-2 col-xl-1"></div>
             <div class="col-md-8 col-lg ms-lg-n30 text-center">
                 <div class="row gh-1 gv-3 align-items-center justify-content-between">
                     {% macro brand_col(name="", delay="") %}
                     <div class="col-6 col-sm-auto show-on-scroll" data-show-delay="{{ delay }}" data-show-duration="500" data-show-distance="20">
-                        <a href="#" class="brand text-grey">
+                        <div class="brand text-grey">
                             {{ brands[name] | safe }}
-                        </a>
+                        </div>
                     </div>
                     {% endmacro %}
                     {{ brand_col('arisglobal', '100') }}
@@ -228,9 +228,9 @@
                 <div class="row gh-1 gv-3 align-items-center justify-content-between">
                     {% macro brand_col(name="", delay="") %}
                     <div class="col-6 col-sm-auto show-on-scroll" data-show-delay="{{ delay }}" data-show-duration="500" data-show-distance="20">
-                        <a href="#" class="brand text-grey">
+                        <div class="brand text-grey">
                             {{ brands[name] | safe }}
-                        </a>
+                        </div>
                     </div>
                     {% endmacro %}
                     {{ brand_col('cbs', '50') }}
