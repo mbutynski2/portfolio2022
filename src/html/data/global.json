@@ -1,6 +1,6 @@
 {
     "template_name": "themebau",
-    "copyright": "© 2023 - Mandi Butynski.",
+    "copyright": "© 2024 - Mandi Butynski",
     "navbar": "top",
     "navbar_dark": false,
     "navbar_mobile": "style-2",
@@ -11,7 +11,7 @@
     "navbar_left_logo": "assets/images/logo-circle.svg",
     "navbar_left_logo_white": "assets/images/logo-circle-white.svg",
     "navbar_left_logo_width": "80",
-    "navbar_left_copyright": "© 2023 - Mandi Butynski.",
+    "navbar_left_copyright": "© 2024 - Mandi Butynski",
     "footer": "default",
     "footer_dark": false,
     "footer_logo": "assets/images/logo.svg",
@@ -655,6 +655,27 @@
         }
     },
     "review": {
+        "elizabeth_smalley": {
+            "name": "Elizabeth Smalley",
+            "subtitle": "Director of Product AI LLM & Data Analytics at ArisGlobal",
+            "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
+            "avatar": "assets/images/about/elizabeth.jpg",
+            "text": "“ I've had the privilege of collaborating with Mandi, particularly on AI/ML user interfaces and cognitive computing projects, where her contributions were nothing short of remarkable. Mandi's rapid design iteration, coupled with her adeptness in high-paced environments, is noteworthy. ”"
+        },
+        "dawn_harn": {
+            "name": "Dawn Harn",
+            "subtitle": "Director of Product Documentation at ArisGlobal",
+            "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
+            "avatar": "assets/images/about/dawn.jpg",
+            "text": "“ Mandi is simply the best! I had the pleasure of working with her on the creation of a documentation portal and was impressed with how she led the design vision. The user is at the center of her design thinking and her results are always clear, intuitive, and creative. ”"
+        },
+        "mu_jatta": {
+            "name": "Muhanned Jatta",
+            "subtitle": "Senior UI/UX Developer at ArisGlobal",
+            "icon": "<svg width='38' height='24' viewBox='0 0 38 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 24L10.1466 0H18.801L13.4293 24H0ZM19.199 24L29.3455 0H38L32.5288 24H19.199Z' fill='currentColor'></path></svg>",
+            "avatar": "assets/images/about/mu.jpg",
+            "text": "“ Mandi exhibits incredible leadership by providing clear directives that inspire our success in storybook development. With superb communication skills, she effectively conveys the project's vision, goals, requirements, and priorities to the development team and other stakeholders. ”"
+        },
         "john_tidwell": {
             "name": "John Tidwell, MBA",
             "subtitle": "CTO Child Support Services",
