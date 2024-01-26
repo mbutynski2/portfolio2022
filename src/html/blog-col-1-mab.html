@@ -30,6 +30,7 @@
                 {% macro card_blog_column(name="", filter="") %}
                     {{ card_blog_global(name, 'card-md isotope-item', data='data-filters=' + filter, style="horizontal-full") }}
                 {% endmacro %}
+                {{ card_blog_column('04', 'design') }}
                 {{ card_blog_column('01', 'design') }}
                 {{ card_blog_column('02', 'leadership') }}
                 {{ card_blog_column('03', 'leadership') }}
