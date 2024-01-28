@@ -609,11 +609,11 @@
             "button_icon": "<svg class='icon-arrow icon-arrow-right' width='25' height='10' viewBox='0 0 25 10' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M20 1L24 5L20 9' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/><path d='M7 5L24 5' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/></svg>"
         },
         "05": {
-            "href": "single-post.html",
-            "image": "assets/images/blog/blog-5.jpg",
-            "title": "How to outsmart your Boss on Business",
-            "date": "01 apr, 2020",
-            "text": "Were You'll moveth midst it darkness isn't lights saw set our. Face can't brought.",
+            "href": "blog-05-design-brief.html",
+            "image": "assets/images/blog/blog5-brief/designbrief-1170x619.jpg",
+            "title": "The Design Brief",
+            "date": "07 jan, 2024",
+            "text": "Kick-off Your Next Design Project with 6 Key Questions.",
             "button": "read more",
             "button_icon": "<svg class='icon-arrow icon-arrow-right' width='25' height='10' viewBox='0 0 25 10' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M20 1L24 5L20 9' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/><path d='M7 5L24 5' stroke='currentColor' stroke-width='1.3' stroke-linecap='round' stroke-linejoin='round'/></svg>"
         },
